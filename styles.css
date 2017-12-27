@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto+Condensed:400i');
+
+.navbar-right{
+
+    text-decoration: none;
+    padding: 5px 15px 5px;
+    list-style: none;
+    font-weight: bolder;
+   
+    
+}
+
+ul a{
+    padding: 15px 15px;
+    color: #fff;
+}
+#languages{
+    margin: 0;
+}
+
+.jumbotron{
+    padding: 100px;
+    background-image: url("images/laptop.jpg");
+    width: 100%;
+    height: 100vh;
+    background-position: 50% 0;
+    position: relative;
+    background-size: cover;
+    font-family: 'Merriweather Sans', sans-serif;;
+    font-weight: bolder;
+    text-shadow: 1px;
+    margin-bottom: 0px;  
+    overflow: hidden;
+    opacity: 1;  
+}
+#welcome{
+    margin-right: auto;
+    margin-left: auto;
+    color: rgb(235, 231, 231);
+    padding-top: 300px;
+
+}
+.row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-primary{
+    background-color: rgb(22, 22, 155);
+}
+#about-me{
+   
+    color: #fff;
+    margin-top: 0px;
+    padding: 50px 50px;
+    font-size: 20px;
+    
+}
+
+#about-me h1{
+    padding-bottom: 10px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+#about-me p{
+    padding-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgba(255,255,255,.7);
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.devicon-html5-plain{
+    text-align: center;
+    font-size: 100px;
+    
+}
+.devicon-css3-plain{
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.devicon-javascript-plain{
+    text-align: center;
+    font-size: 100px;
+
+} 
+.devicon-jquery-plain{
+    text-align: center;
+    font-size: 100px;
+}
+.devicon-bootstrap-plain{
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.devicon-react-plain{
+    text-align: center;
+    font-size: 100px;
+
+} 
+
+.devicon-gulp-plain{
+    text-align: center;
+    font-size: 100px;
+}
+
+.devicon-sass-original{
+    text-align: center;
+    font-size: 100px;
+
+}
+.devicon-nodejs-plain-wordmark{
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.devicon-express-original-wordmark{
+    text-align: center;
+    font-size: 100px;
+
+} 
+
+.devicon-gulp-plain{
+    text-align: center;
+    font-size: 100px;
+}
+
+.devicon-php-plain{
+    text-align: center;
+    font-size: 100px;
+
+}
+.devicon-laravel-plain{
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.devicon-express-original-wordmark{
+    text-align: center;
+    font-size: 100px;
+
+} 
